@@ -30,3 +30,4 @@ Each of you has access to an attendance spreadsheet that now contains five days 
 
 * At least one of your visualizations _must_ be a histogram.
 
+Go Mariners!
